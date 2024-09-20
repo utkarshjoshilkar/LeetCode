@@ -24,10 +24,15 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarshj203/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/utkarshj203/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [3379-score-of-a-string](https://github.com/utkarshj203/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarshj203/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
