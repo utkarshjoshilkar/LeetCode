@@ -1,6 +1,6 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-           // Upper Bound Problem letters[i] > target
+        
         int n = letters.length;
         int left = 0;
         int right = n-1;
