@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/utkarshj203/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/utkarshj203/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -46,5 +47,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/utkarshj203/LeetCode/tree/master/0069-sqrtx) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/utkarshj203/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
