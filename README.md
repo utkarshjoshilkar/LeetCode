@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/utkarshj203/LeetCode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/utkarshj203/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/utkarshj203/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
