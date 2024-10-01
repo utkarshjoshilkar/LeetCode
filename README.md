@@ -24,12 +24,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshj203/LeetCode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/utkarshj203/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utkarshj203/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/utkarshj203/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/utkarshj203/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
