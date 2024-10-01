@@ -19,6 +19,7 @@
 | [0011-container-with-most-water](https://github.com/utkarshj203/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshj203/LeetCode/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarshj203/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/utkarshj203/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/utkarshj203/LeetCode/tree/master/3379-score-of-a-string) |
