@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/utkarshj203/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utkarshj203/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
