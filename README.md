@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utkarshj203/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/utkarshj203/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshj203/LeetCode/tree/master/0027-remove-element) |
@@ -70,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utkarshj203/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
