@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshj203/LeetCode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshj203/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@
 | [0050-powx-n](https://github.com/utkarshj203/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/utkarshj203/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utkarshj203/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshj203/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
