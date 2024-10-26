@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/utkarshj203/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/utkarshj203/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshj203/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/utkarshj203/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/utkarshj203/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
