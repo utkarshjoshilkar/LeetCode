@@ -30,6 +30,7 @@
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshj203/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +120,5 @@
 | [0021-merge-two-sorted-lists](https://github.com/utkarshj203/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
