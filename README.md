@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Database
 |  |
@@ -135,6 +136,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/utkarshj203/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -144,10 +146,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/utkarshj203/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
