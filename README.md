@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshj203/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/utkarshj203/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshj203/LeetCode/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@
 | [0001-two-sum](https://github.com/utkarshj203/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/utkarshj203/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshj203/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshj203/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
@@ -179,4 +182,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshj203/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
