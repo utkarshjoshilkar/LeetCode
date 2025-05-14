@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/utkarshj203/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/utkarshj203/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/utkarshj203/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -114,6 +115,7 @@
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
+| [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
