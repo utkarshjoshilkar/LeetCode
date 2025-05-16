@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/utkarshj203/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/utkarshj203/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/utkarshj203/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/utkarshj203/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/utkarshj203/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/utkarshj203/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
