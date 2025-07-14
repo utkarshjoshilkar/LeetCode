@@ -56,6 +56,7 @@
 | [0189-rotate-array](https://github.com/utkarshj203/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -64,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/utkarshj203/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/utkarshj203/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/utkarshj203/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/utkarshj203/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
