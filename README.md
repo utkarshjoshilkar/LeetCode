@@ -66,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
+| [1078-remove-outermost-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/utkarshj203/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/utkarshj203/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -84,6 +85,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Database
 |  |
 | ------- |
