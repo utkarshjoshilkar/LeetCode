@@ -1,34 +1,20 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length()  != t.length() ) {
+        if (s.length() != t.length())
             return false;
-        }
-        int[] count = new int[26];
 
+        HashMap<Character, Integer> counter = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+            char ch = s.charAt(i);
+            counter.put(ch, counter.getOrDefault(ch, 0) + 1);
         }
-        for (int i = 0; i < 26; i++) {
-            if(count[i]!=0){
+        for (int i = 0; i < s.length(); i++) {
+            char ch = t.charAt(i);
+            if(!counter.containsKey(ch)||counter.get(ch)==0){
                 return false;
             }
+            counter.put(ch, counter.get(ch) - 1);
         }
         return true;
-
     }
 }
-
-//fails when the strings have repeted letters 
-
-// int count=0;
-// for(int i = 0;i<s.length();i++){
-//     for(int j = 0;j<s.length();j++){
-//         if(s.charAt(i)==t.charAt(j)){
-//             count++;
-//         }
-//     }
-// }
-// if(count==s.length())
-//     return true;
-// return false;
