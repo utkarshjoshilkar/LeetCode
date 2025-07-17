@@ -65,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/utkarshj203/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshj203/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/utkarshj203/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -124,6 +125,7 @@
 | [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/utkarshj203/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -139,6 +141,7 @@
 | [0075-sort-colors](https://github.com/utkarshj203/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/utkarshj203/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
