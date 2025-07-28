@@ -24,6 +24,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/utkarshj203/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/utkarshj203/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -140,6 +142,7 @@
 | [0136-single-number](https://github.com/utkarshj203/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -224,4 +227,16 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
