@@ -27,6 +27,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/utkarshj203/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3778-transform-array-by-parity](https://github.com/utkarshj203/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0217-contains-duplicate](https://github.com/utkarshj203/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarshj203/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
+| [3778-transform-array-by-parity](https://github.com/utkarshj203/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/utkarshj203/LeetCode/tree/master/0169-majority-element) |
+| [3778-transform-array-by-parity](https://github.com/utkarshj203/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
