@@ -1,6 +1,5 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
-        int index = 0;
         int a = 0;
         int b = 0;
         int row = grid.length;
