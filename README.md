@@ -24,6 +24,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/utkarshj203/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1580-shuffle-the-array](https://github.com/utkarshj203/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/utkarshj203/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
