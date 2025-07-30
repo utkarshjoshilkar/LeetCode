@@ -28,6 +28,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/utkarshj203/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/utkarshj203/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshj203/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3778-transform-array-by-parity](https://github.com/utkarshj203/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshj203/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshj203/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshj203/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
