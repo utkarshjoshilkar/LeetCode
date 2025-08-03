@@ -48,6 +48,7 @@
 | [0189-rotate-array](https://github.com/utkarshj203/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/utkarshj203/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/utkarshj203/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/utkarshj203/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -82,6 +83,7 @@
 | [0242-valid-anagram](https://github.com/utkarshj203/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/utkarshj203/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/utkarshj203/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/utkarshj203/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -144,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/utkarshj203/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/utkarshj203/LeetCode/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/utkarshj203/LeetCode/tree/master/0697-degree-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshj203/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarshj203/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/utkarshj203/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
