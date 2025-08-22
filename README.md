@@ -71,6 +71,7 @@
 | [0202-happy-number](https://github.com/utkarshj203/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/utkarshj203/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/utkarshj203/LeetCode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/utkarshj203/LeetCode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utkarshj203/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshj203/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshj203/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -177,6 +178,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/utkarshj203/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/utkarshj203/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/utkarshj203/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/utkarshj203/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshj203/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/utkarshj203/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/utkarshj203/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -267,4 +270,8 @@
 | [0074-search-a-2d-matrix](https://github.com/utkarshj203/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/utkarshj203/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshj203/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/utkarshj203/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
