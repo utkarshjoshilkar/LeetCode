@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshj203/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/utkarshj203/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/utkarshj203/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/utkarshj203/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshj203/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/utkarshj203/LeetCode/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@
 | [0011-container-with-most-water](https://github.com/utkarshj203/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshj203/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/utkarshj203/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/utkarshj203/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshj203/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/utkarshj203/LeetCode/tree/master/0125-valid-palindrome) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshj203/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/utkarshj203/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshj203/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -240,6 +243,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/utkarshj203/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshj203/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/utkarshj203/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/utkarshj203/LeetCode/tree/master/1013-fibonacci-number) |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/utkarshj203/LeetCode/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/utkarshj203/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
